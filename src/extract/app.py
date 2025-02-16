@@ -3,7 +3,6 @@ import os
 from typing import Optional
 from pathlib import Path
 from huggingface_hub import InferenceClient
-from smolagents import Tool
 from pydantic import BaseModel, Field
 from loguru import logger
 import asyncio
@@ -20,19 +19,15 @@ class TranscriptionConfig(BaseModel):
 class Transcription(BaseModel):
     """Model for transcription results"""
     text: str
-    language: Optional[str] = None
-    duration: Optional[float] = None
 
 class AudioTranscriptionError(Exception):
     """Custom exception for audio transcription errors"""
     pass
 
-class SpeechRecognitionService:
-    """Service class for handling speech recognition operations using Whisper"""
+class AudioPreprocessor:
+    """Service class for preprocessing audio files using speech recognition"""
 
     def __init__(self, config: Optional[TranscriptionConfig] = None):
-
-
         self.api_key = os.getenv('HUGGING_FACE_API_KEY')
         if not self.api_key:
             raise ValueError("HUGGING_FACE_API_KEY environment variable is not set")
@@ -52,15 +47,15 @@ class SpeechRecognitionService:
 
         return path
 
-    async def transcribe(self, file_path: str) -> Transcription:
+    async def process_audio(self, file_path: str) -> str:
         """
-        Transcribe audio file to text using Whisper
+        Preprocess audio file by transcribing it to text
 
         Args:
             file_path: Path to the audio file
 
         Returns:
-            Transcription object containing the results
+            str: Transcribed text from the audio file
 
         Raises:
             AudioTranscriptionError: If transcription fails
@@ -69,71 +64,52 @@ class SpeechRecognitionService:
         """
         try:
             path = self.validate_audio_file(file_path)
-
-            logger.info(f"Starting transcription of {path.name} using Whisper")
+            logger.info(f"Preprocessing audio file: {path.name}")
 
             response = self.client.automatic_speech_recognition(
                 audio=path,
                 model=self.config.model_name
             )
 
-            text = response.text
-            language = None
-            duration = None
-
             logger.success(f"Successfully transcribed {path.name}")
-
-            return Transcription(
-                text=text,
-                language=language,
-                duration=duration
-            )
+            return response.text
 
         except Exception as e:
-            logger.exception(f"Transcription failed: {str(e)}")
-            raise AudioTranscriptionError(f"Failed to transcribe audio: {str(e)}") from e
+            logger.exception(f"Audio preprocessing failed: {str(e)}")
+            raise AudioTranscriptionError(f"Failed to preprocess audio: {str(e)}") from e
 
-class SpeechRecognitionTool(Tool):
-    """Tool for speech recognition using Whisper through HuggingFace"""
+async def process_audio_files(file_paths: list[str], config: Optional[TranscriptionConfig] = None) -> dict[str, str]:
+    """
+    Process multiple audio files in parallel
 
-    name = "speech_recognition"
-    description = "Uses Whisper model to extract text from an audio file."
-    inputs = {
-        "file_path": {
-            "type": "string",
-            "description": "The path to the audio file to be processed.",
-        }
+    Args:
+        file_paths: List of paths to audio files
+        config: Optional configuration for the preprocessor
+
+    Returns:
+        dict: Mapping of file paths to their transcribed text
+    """
+    preprocessor = AudioPreprocessor(config)
+    tasks = [preprocessor.process_audio(file_path) for file_path in file_paths]
+    results = await asyncio.gather(*tasks, return_exceptions=True)
+
+    return {
+        file_path: result if not isinstance(result, Exception) else str(result)
+        for file_path, result in zip(file_paths, results)
     }
-    output_type = "object"  # Changed from Transcription class to string type
-    output_description = "A transcription object containing the extracted text, language, and duration"
-
-    def __init__(self, config: Optional[TranscriptionConfig] = None, **kwargs):
-        super().__init__(**kwargs)
-        self.service = SpeechRecognitionService(config)
-
-    async def forward(
-        self,
-        file_path: str,
-    ) -> Transcription:
-        """
-        Process the audio file and return transcription
-
-        Args:
-            file_path: Path to the audio file
-
-        Returns:
-            Transcription object containing the results
-        """
-        return await self.service.transcribe(file_path)
 
 async def main():
+    # Example usage
     config = TranscriptionConfig(
         model_name="openai/whisper-large-v3-turbo",
     )
 
-    tool = SpeechRecognitionTool(config=config)
-    result = await tool.forward("./src/extract/sources/medecin.mp3")
-    print(f"Transcription: {result.text}")
+    files_to_process = ["./src/extract/sources/medecin.mp3"]
+    results = await process_audio_files(files_to_process, config)
+
+    for file_path, text in results.items():
+        logger.debug(f"File: {file_path}")
+        logger.info(f"Transcription: {text}\n")
 
 if __name__ == "__main__":
     asyncio.run(main())
