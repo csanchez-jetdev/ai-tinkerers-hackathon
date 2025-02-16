@@ -1,0 +1,250 @@
+Title: Role of oral microbiome in oral oncogenesis, tumor progression, and metastasis.
+Authors: Li Ruohan, Xiao Li, Gong Tao, Liu Jiaxin, Li Yuqing, Zhou Xuedong, Li Yi, Zheng Xin
+Journal: Molecular oral microbiology
+Publication Date: 2023/Feb/01
+PMID: 36420924
+DOI: 10.1111/omi.12403
+URL: https://pubmed.ncbi.nlm.nih.gov/36420924/
+Abstract:
+Squamous cell carcinoma is the most common malignant tumor of the oral cavity and its adjacent sites, which endangers the physical and mental health of patients and has a complex etiology. Chronic infection is considered to be a risk factor in cancer development. Evidence suggests that periodontal pathogens, such as Porphyromonas gingivalis, Fusobacterium nucleatum, and Treponema denticola, are associated with oral squamous cell carcinoma (OSCC). They can stimulate tumorigenesis by promoting epithelial cells proliferation while inhibiting apoptosis and regulating the inflammatory microenvironment. Candida albicans promotes OSCC progression and metastasis through multiple mechanisms. Moreover, oral human papillomavirus (HPV) can induce oropharyngeal squamous cell carcinoma (OPSCC). There is evidence that HPV16 can integrate with host cells' DNA and activate oncogenes. Additionally, oral dysbiosis and synergistic effects in the oral microbial communities can promote cancer development. In this review, we will discuss the biological characteristics of oral microbiome associated with OSCC and OPSCC and then highlight the mechanisms by which oral microbiome is involved in oral oncogenesis, tumor progression, and metastasis. These findings may have positive implications for early diagnosis and treatment of oral cancer.
+
+================================================================================
+
+Title: Oral leukoplakia and oral cancer.
+Authors: Onda Takeshi, Hayashi Kamichika, Katakura Akira, Takano Masayuki
+Journal: Cleveland Clinic journal of medicine
+Publication Date: 2023/Feb/01
+PMID: 36724918
+DOI: 10.3949/ccjm.90a.22044
+URL: https://pubmed.ncbi.nlm.nih.gov/36724918/
+Abstract:
+Abstract not available
+
+================================================================================
+
+Title: Oral cavity cancer in young, non-smoking, and non-drinking patients: A contemporary review.
+Authors: Tran Quan, Maddineni Sainiteesh, Arnaud Ethan Hunter, Divi Vasu, Megwalu Uchechukwu C, Topf Michael C, Sunwoo John B
+Journal: Critical reviews in oncology/hematology
+Publication Date: 2023/Oct/01
+PMID: 37633348
+DOI: 10.1016/j.critrevonc.2023.104112
+URL: https://pubmed.ncbi.nlm.nih.gov/37633348/
+Abstract:
+Oral squamous cell carcinoma (OSCC) in non-smoking and non-drinking (NSND) individuals appears to be distinct from the traditional head and neck squamous cell carcinoma (HNSCC). The incidence of this subset is increasing, as are the number of studies examining its characteristics. NSND OSCC individuals tend to be younger (<45 years) compared to traditional HNSCC patients. The proportion of females in the NSND OSCC cohort is also higher. The tongue is the predominantly affected subsite. Studies have revealed several gene mutations and unique epigenomic profiles but no definitive genetic etiology. Transcriptomic analysis has not found any causative viral agents. Other proposed etiologies include chronic dental trauma, microbiome abnormalities, marijuana consumption, and genetic disorders. There are international efforts to determine the relative prognostic outcome of this unique cohort, but no consensus has been reached. Here, we review the incidence, demographics, subsite, possible etiologies, prognosis, and therapy implications of the NSND OSCC cohort.
+
+================================================================================
+
+Title: Oral Squamous Cell Carcinoma and Concomitant Primary Tumors, What Do We Know? A Review of the Literature.
+Authors: Badwelan Mohammed, Muaddi Hasan, Ahmed Abeer, Lee Kyungjun T, Tran Simon D
+Journal: Current oncology (Toronto, Ont.)
+Publication Date: 2023/Mar/27
+PMID: 37185396
+DOI: 10.3390/curroncol30040283
+URL: https://pubmed.ncbi.nlm.nih.gov/37185396/
+Abstract:
+Head and neck cancer is among the top ten cancers worldwide, with most lesions in the oral cavity. Oral squamous cell carcinoma (OSCC) accounts for more than 90% of all oral malignancies and is a significant public health concern. Patients with OSCC are at increased risk for developing concomitant tumors, especially in the oral cavity, due to widely genetically susceptible mucosa to carcinogenic factors. Based on fulfilling specific criteria, these concomitant tumors can be called second primary tumors (SPTs), which can be further categorized into metachronous and synchronous tumors. This research reviews the literature that investigated the concurrent OSCC with second or multiple primaries to improve understanding of the definition, classification guidelines, and its effect on cancer survival. It also highlights the current investigation methods, the variation of standard treatment approaches due to such a phenomenon, and preventive measures discussed in the literature.
+
+================================================================================
+
+Title: Pathogenesis and Therapy of Oral Carcinogenesis.
+Authors: Tarle Marko, Lukšić Ivica
+Journal: International journal of molecular sciences
+Publication Date: 2024/Jun/08
+PMID: 38928050
+DOI: 10.3390/ijms25126343
+URL: https://pubmed.ncbi.nlm.nih.gov/38928050/
+Abstract:
+Oral squamous cell carcinoma (OSCC) is the most common malignant tumor of the head and neck with an extremely poor five-year survival rate of approximately 50 to 55%, despite significant advances in diagnostic and therapeutic procedures over the past three decades [...].
+
+================================================================================
+
+Title: The UK public and healthcare professionals' awareness of mouth cancer.
+Authors: Barrett Danielle, Dubal Raj, L Morgan Claire
+Journal: British dental journal
+Publication Date: 2023/Nov/01
+PMID: 38001210
+DOI: 10.1038/s41415-023-6490-5
+URL: https://pubmed.ncbi.nlm.nih.gov/38001210/
+Abstract:
+As the rate of new mouth cancer diagnoses continues to increase in the UK, awareness of risk factors and signs and symptoms remains low. This paper focuses on studies showing UK public awareness of risk factors, including alcohol, tobacco and human papillomavirus, as well as public understanding of signs and symptoms of mouth cancer. It includes a review of the effectiveness of campaigns in raising awareness of mouth cancer and examples of campaigns targeting other common cancers or risk factors that may provide useful learning ahead of upcoming mouth cancer campaigns. In addition, the awareness of the wider healthcare team and the importance of their role in identifying mouth cancer is explored. Current live campaigns in the UK are highlighted ahead of future initiatives now that the Mouth Cancer Action Charter has been launched and two new coalitions have been established.
+
+================================================================================
+
+Title: Oral and Sinonasal Tumors.
+Authors: Dixon Padraic M
+Journal: The Veterinary clinics of North America. Equine practice
+Publication Date: 2024/Dec/01
+PMID: 39261154
+DOI: 10.1016/j.cveq.2024.07.010
+URL: https://pubmed.ncbi.nlm.nih.gov/39261154/
+Abstract:
+This article reviews the different types of equine non-neoplastic and neoplastic oral and sinonasal tumors and describes their known prevalence and general characteristics. The clinical and ancillary diagnostic findings (primarily radiography and endoscopy, and increasingly computed tomography) for each type of growth that can aid diagnosis are described. Most lesions require a histopathological confirmation of the diagnosed growth. The possible treatments and prognosis for these growths are briefly described.
+
+================================================================================
+
+Title: Desmoid fibromatosis-a diagnostic dilemma.
+Authors: Mittal Manaswini, Pillai Suresh, Monappa Vidya, Devaraja K, Majumdar Kinjal Shankar
+Journal: European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery
+Publication Date: 2024/Jun/01
+PMID: 38530459
+DOI: 10.1007/s00405-024-08558-4
+URL: https://pubmed.ncbi.nlm.nih.gov/38530459/
+Abstract:
+PURPOSE: Desmoid fibromatosis in head and neck is infrequent and poses a significant challenge to the clinicians due to its non-specific characteristics.
+METHODS: This case report focuses on a 69-year-old male who presented to a tertiary healthcare center in Karnataka, India with a swelling in the oral cavity.
+RESULTS: Despite initial suspicions of malignancy based on clinical examination and findings on computed tomography imaging, subsequent histopathology and immunohistochemistry revealed an unexpected finding.
+CONCLUSION: The case highlights the importance of clinical suspicion and histopathological evaluation as well as the need for greater awareness to facilitate early diagnosis and appropriate management of desmoid fibromatosis. We also present a literature review of varied presentations of desmoid tumors afflicting various subsites of the head and neck.
+
+================================================================================
+
+Title: Treatment of Oral Dysplasia.
+Authors: Clarkson Earl, Hadioonzadeh Reza, Peters Scott M
+Journal: Dental clinics of North America
+Publication Date: 2024/Jan/01
+PMID: 37951630
+DOI: 10.1016/j.cden.2023.07.008
+URL: https://pubmed.ncbi.nlm.nih.gov/37951630/
+Abstract:
+Oral epithelial dysplasia refers to a premalignant lesion of the oral cavity. The diagnosis of dysplasia is rendered via pathologic assessment of diseased tissue. There are many different premalignant conditions identified in the oral cavity. These include leukoplakias, erythroplakias, proliferative verrucous leukoplakia, oral submucosal fibrosis, actinic cheilitis, and lichen planus. This article will discuss these different conditions and how they are diagnosed. It will also review the treatment for these entities.
+
+================================================================================
+
+Title: Oral cancers are rising in the UK.
+Authors: Watt Richard G, Heilmann Anja, Conway David I
+Journal: BMJ (Clinical research ed.)
+Publication Date: 2023/Dec/12
+PMID: 38086551
+DOI: 10.1136/bmj.p2907
+URL: https://pubmed.ncbi.nlm.nih.gov/38086551/
+Abstract:
+Abstract not available
+
+================================================================================
+
+Title: Malignant Lesions of the Oral Region.
+Authors: Omami Galal, Yeoh Melvyn
+Journal: Dental clinics of North America
+Publication Date: 2024/Apr/01
+PMID: 38417993
+DOI: 10.1016/j.cden.2023.09.006
+URL: https://pubmed.ncbi.nlm.nih.gov/38417993/
+Abstract:
+This article focuses on the radiographic presentations of various malignant conditions that affect the oral region and delineates the role of CT, MR imaging, and PET in oral cancer imaging.
+
+================================================================================
+
+Title: Neoadjuvant chemotherapy for advanced oral cavity cancer.
+Authors: Yaniv Dan, Seiwert Tanguy Y, Margalit Danielle N, Williams Michelle D, Barbon Carly E A, Largo Rene D, Smith Jon A, Gross Neil D
+Journal: CA: a cancer journal for clinicians
+Publication Date: 2024/01/01
+PMID: 38329372
+DOI: 10.3322/caac.21829
+URL: https://pubmed.ncbi.nlm.nih.gov/38329372/
+Abstract:
+Abstract not available
+
+================================================================================
+
+Title: Research Progress of Metformin in the Treatment of Oral Squamous Cell Carcinoma.
+Authors: Liu Jiayi, Zhao Jing, Qiao Xue
+Journal: Endocrinology
+Publication Date: 2023/Sep/23
+PMID: 37738154
+DOI: 10.1210/endocr/bqad139
+URL: https://pubmed.ncbi.nlm.nih.gov/37738154/
+Abstract:
+Oral squamous cell carcinoma (OSCC) is one of the most common malignancies and has a high mortality, posing a great threat to both human physical and mental health. With the advancement of scientific research, a variety of cancer therapies have been used for OSCC treatment. However, the prognosis of OSCC shows no significant improvement. Metformin has been recognized as the first-line drug for the treatment of diabetes, and recent studies have shown that metformin has a remarkable suppressive effect on tumor progression. Metformin can not only affect the energy metabolism of tumor cells but also play an antitumor role by modulating the tumor microenvironment and cancer stem cells. In this review, the molecular mechanism of metformin and its anticancer mechanism in OSCC are summarized. In addition, this article summarizes the side effects of metformin and the future prospects of its application in the treatment of OSCC.
+
+================================================================================
+
+Title: Ferroptosis as a hero against oral cancer.
+Authors: Vijayarangam Varshini, Gopalakrishnan Deviparasakthi Mangayer Karasi, Balasubramanian Priyanka, Palaniyandi Thirunavukkarasu, Ravindran Rekha, Suliman Muath, Saeed Mohd, Natarajan Sudhakar, Sivaji Asha, Baskar Gomathy
+Journal: Pathology, research and practice
+Publication Date: 2024/Nov/01
+PMID: 39393267
+DOI: 10.1016/j.prp.2024.155637
+URL: https://pubmed.ncbi.nlm.nih.gov/39393267/
+Abstract:
+Cancer is an abnormal condition altering the cells to proliferate out of control simultaneously being susceptible to evolution. The lining which is made up of tissues in the lips, upper throat and mouth can undergo mutations, is recognised as mouth cancer or oral cancer. Substantial number of mouth lesions are identified at a point where it is typically not possible to get effective remedial care. Ferroptosis is a cutting-edge instance of cellular destruction which stands out in distinction to other sorts of cell death. It appears to have distinctive cellular, molecular and gene-level attributes and scavenges on deposits of reactive oxygen species triggered via iron-induced lipid peroxidation. It is said to be involved dichotomously in cancer development. Because the ferroptotic tumour cells put out numerous chemicals that alternatively signal for cancer attenuation or growth. There is increasing proof that researchers are now keenly investigating to stimulate ferroptosis through various inducers and pathways in the intent for oral cancer therapeutics, specifically to kill malignant tumours that refuse to respond well to conventional treatments. Also, it has the ability to reverse chemotherapy and radiotherapy resistance in victims maximising the success rate of the treatments. This review centres on the stimulation of ferroptosis as a stand-alone therapy for oral cancer, or in combination with other medicines, agents and pathways.
+
+================================================================================
+
+Title: Sex bias phenomenon in oral cancer: an insight.
+Authors: Sengupta Namrata, Sarode Sachin C, Sarode Gargi S, Anand Rahul
+Journal: Future oncology (London, England)
+Publication Date: 2023/Jun/01
+PMID: 37403625
+DOI: 10.2217/fon-2023-0225
+URL: https://pubmed.ncbi.nlm.nih.gov/37403625/
+Abstract:
+Abstract not available
+
+================================================================================
+
+Title: Spatial Transcriptomics Unravel the Tissue Complexity of Oral Pathogenesis.
+Authors: Haller J, Abedi N, Hafedi A, Shehab O, Wietecha M S
+Journal: Journal of dental research
+Publication Date: 2024/Dec/01
+PMID: 39382116
+DOI: 10.1177/00220345241271934
+URL: https://pubmed.ncbi.nlm.nih.gov/39382116/
+Abstract:
+Spatial transcriptomics (ST) is a cutting-edge methodology that enables the simultaneous profiling of global gene expression and spatial information within histological tissue sections. Traditional transcriptomic methods lack the spatial resolution required to sufficiently examine the complex interrelationships between cellular regions in diseased and healthy tissue states. We review the general workflows for ST, from specimen processing to ST data analysis and interpretations of the ST dataset using visualizations and cell deconvolution approaches. We show how recent studies used ST to explore the development or pathogenesis of specific craniofacial regions, including the cranium, palate, salivary glands, tongue, floor of mouth, oropharynx, and periodontium. Analyses of cranial suture patency and palatal fusion during development using ST identified spatial patterns of bone morphogenetic protein in sutures and osteogenic differentiation pathways in the palate, in addition to the discovery of several genes expressed at critical locations during craniofacial development. ST of salivary glands from patients with Sjögren's disease revealed co-localization of autoimmune antigens with ductal cells and a subpopulation of acinar cells that was specifically depleted by the dysregulated autoimmune response. ST of head and neck lesions, such as premalignant leukoplakia progressing to established oral squamous cell carcinomas, oral cancers with perineural invasions, and oropharyngeal lesions associated with HPV infection spatially profiled the complex tumor microenvironment, showing functionally important gene signatures of tumor cell differentiation, invasion, and nontumor cell dysregulation within patient biopsies. ST also enabled the localization of periodontal disease-associated gene expression signatures within gingival tissues, including genes involved in inflammation, and the discovery of a fibroblast subtype mediating the transition between innate and adaptive immune responses in periodontitis. The increased use of ST, especially in conjunction with single-cell analyses, promises to improve our understandings of craniofacial development and pathogenesis at unprecedented tissue-level resolution in both space and time.
+
+================================================================================
+
+Title: Oral Pre-malignancy: An Update on Novel Therapeutic Approaches.
+Authors: Naara Shorook, Andrews Clara, Sikora Andrew, Williams Michelle, Chambers Mark, Myers Jeffrey, Amit Moran
+Journal: Current oncology reports
+Publication Date: 2024/Sep/01
+PMID: 38865005
+DOI: 10.1007/s11912-024-01562-1
+URL: https://pubmed.ncbi.nlm.nih.gov/38865005/
+Abstract:
+PURPOSE OF REVIEW: This review aims to provide a comprehensive overview of the current advances in managing and preventing progression of oral potentially malignant disorders (OPMDs), focusing on their histological and clinicopathological features, and management.
+RECENT FINDINGS: Recent studies, including a multicenter cross-sectional study, have identified oral leukoplakia as the most prevalent form of OPMD, comprising over half of the cases examined. Advances in histological grading, specifically the World Health Organization's three-tier system (mild, moderate, and severe dysplasia), have significantly enhanced the accuracy of risk assessment for malignant transformation. Additionally, treatments such as surgical interventions, photodynamic therapy, and chemopreventive and molecularly targeted agents are being evaluated for their safety and efficacy as well as, immune checkpoint inhibitors being evaluated as potential preventive strategies to halt the progression of OPMDs. The management of OPMDs remains challenging due to the lack of standardized screening protocols and varied clinical management approaches. Despite this, recent advancements in diagnostic grading and therapeutic interventions provide a framework for improved treatment outcomes. Continued research into the molecular and cellular mechanisms driving development and progression of OPMDs and innovative treatment trials are essential to optimize strategies that prevent malignant progression and thereby reduce the global health burden of oral cancer.
+
+================================================================================
+
+Title: Outdoor air pollution and oral cancer: critical viewpoints and future prospects.
+Authors: Sarode Sachin C, Sarode Gargi S, Sharma Nilesh
+Journal: Future oncology (London, England)
+Publication Date: 2023/Feb/01
+PMID: 36942734
+DOI: 10.2217/fon-2022-0986
+URL: https://pubmed.ncbi.nlm.nih.gov/36942734/
+Abstract:
+Abstract not available
+
+================================================================================
+
+Title: Mutation detection in saliva from oral cancer patients.
+Authors: Ahmed Ahmed A, Sborchia Mateja, Bye Hannah, Roman-Escorza Maria, Amar Ariella, Henley-Smith Rhonda, Odell Edward, McGurk Mark, Simpson Michael, Ng Tony, Sawyer Elinor J, Mathew Christopher G
+Journal: Oral oncology
+Publication Date: 2024/Apr/01
+PMID: 38412584
+DOI: 10.1016/j.oraloncology.2024.106717
+URL: https://pubmed.ncbi.nlm.nih.gov/38412584/
+Abstract:
+OBJECTIVES: The incidence of head and neck squamous cell carcinoma (HNSCC) continues to increase and although advances have been made in treatment, it still has a poor overall survival with local relapse being common. Conventional imaging methods are not efficient at detecting recurrence at an early stage when still potentially curable. The aim of this study was to test the feasibility of using saliva to detect the presence of oral squamous cell carcinoma (OSCC) and to provide additional evidence for the potential of this approach.
+MATERIALS AND METHODS: Fresh tumor, whole blood and saliva were collected from patients with OSCC before treatment. Whole exome sequencing (WES) or gene panel sequencing of tumor DNA was performed to identify somatic mutations in tumors and to select genes for performing gene panel sequencing on saliva samples.
+RESULTS: The most commonly mutated genes identified in primary tumors by DNA sequencing were TP53 and FAT1. Gene panel sequencing of paired saliva samples detected tumor derived mutations in 9 of 11 (82%) patients. The mean variant allele frequency for the mutations detected in saliva was 0.025 (range 0.004 - 0.061).
+CONCLUSION: Somatic tumor mutations can be detected in saliva with high frequency in OSCC irrespective of site or stage of disease using a limited panel of genes. This work provides additional evidence for the suitability of using saliva as liquid biopsy in OSCC and has the potential to improve early detection of recurrence in OSCC. Trials are currently underway comparing this approach to standard imaging techniques.
+
+================================================================================
+
+Title: Detection of oral cancer and oral potentially malignant disorders using artificial intelligence-based image analysis.
+Authors: Kouketsu Atsumu, Doi Chiaki, Tanaka Hiroaki, Araki Takashi, Nakayama Rina, Toyooka Tsuguyoshi, Hiyama Satoshi, Iikubo Masahiro, Osaka Ken, Sasaki Keiichi, Nagai Hirokazu, Sugiura Tsuyoshi, Yamauchi Kensuke, Kuroda Kanako, Yanagisawa Yuta, Miyashita Hitoshi, Kajita Tomonari, Iwama Ryosuke, Kurobane Tsuyoshi, Takahashi Tetsu
+Journal: Head & neck
+Publication Date: 2024/Sep/01
+PMID: 38860703
+DOI: 10.1002/hed.27843
+URL: https://pubmed.ncbi.nlm.nih.gov/38860703/
+Abstract:
+BACKGROUND: We aimed to construct an artificial intelligence-based model for detecting oral cancer and dysplastic leukoplakia using oral cavity images captured with a single-lens reflex camera.
+SUBJECTS AND METHODS: We used 1043 images of lesions from 424 patients with oral squamous cell carcinoma (OSCC), leukoplakia, and other oral mucosal diseases. An object detection model was constructed using a Single Shot Multibox Detector to detect oral diseases and their locations using images. The model was trained using 523 images of oral cancer, and its performance was evaluated using images of oral cancer (n = 66), leukoplakia (n = 49), and other oral diseases (n = 405).
+RESULTS: For the detection of only OSCC versus OSCC and leukoplakia, the model demonstrated a sensitivity of 93.9% versus 83.7%, a negative predictive value of 98.8% versus 94.5%, and a specificity of 81.2% versus 81.2%.
+CONCLUSIONS: Our proposed model is a potential diagnostic tool for oral diseases.
+
+================================================================================
+

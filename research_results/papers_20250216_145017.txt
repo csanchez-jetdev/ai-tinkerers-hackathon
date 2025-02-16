@@ -1,0 +1,60 @@
+Title: Oral leukoplakia and oral cancer.
+Authors: Onda Takeshi, Hayashi Kamichika, Katakura Akira, Takano Masayuki
+Journal: Cleveland Clinic journal of medicine
+Publication Date: 2023/Feb/01
+PMID: 36724918
+DOI: 10.3949/ccjm.90a.22044
+URL: https://pubmed.ncbi.nlm.nih.gov/36724918/
+Abstract:
+Abstract not available
+
+================================================================================
+
+Title: Oral cavity cancer in young, non-smoking, and non-drinking patients: A contemporary review.
+Authors: Tran Quan, Maddineni Sainiteesh, Arnaud Ethan Hunter, Divi Vasu, Megwalu Uchechukwu C, Topf Michael C, Sunwoo John B
+Journal: Critical reviews in oncology/hematology
+Publication Date: 2023/Oct/01
+PMID: 37633348
+DOI: 10.1016/j.critrevonc.2023.104112
+URL: https://pubmed.ncbi.nlm.nih.gov/37633348/
+Abstract:
+Oral squamous cell carcinoma (OSCC) in non-smoking and non-drinking (NSND) individuals appears to be distinct from the traditional head and neck squamous cell carcinoma (HNSCC). The incidence of this subset is increasing, as are the number of studies examining its characteristics. NSND OSCC individuals tend to be younger (<45 years) compared to traditional HNSCC patients. The proportion of females in the NSND OSCC cohort is also higher. The tongue is the predominantly affected subsite. Studies have revealed several gene mutations and unique epigenomic profiles but no definitive genetic etiology. Transcriptomic analysis has not found any causative viral agents. Other proposed etiologies include chronic dental trauma, microbiome abnormalities, marijuana consumption, and genetic disorders. There are international efforts to determine the relative prognostic outcome of this unique cohort, but no consensus has been reached. Here, we review the incidence, demographics, subsite, possible etiologies, prognosis, and therapy implications of the NSND OSCC cohort.
+
+================================================================================
+
+Title: Role of oral microbiome in oral oncogenesis, tumor progression, and metastasis.
+Authors: Li Ruohan, Xiao Li, Gong Tao, Liu Jiaxin, Li Yuqing, Zhou Xuedong, Li Yi, Zheng Xin
+Journal: Molecular oral microbiology
+Publication Date: 2023/Feb/01
+PMID: 36420924
+DOI: 10.1111/omi.12403
+URL: https://pubmed.ncbi.nlm.nih.gov/36420924/
+Abstract:
+Squamous cell carcinoma is the most common malignant tumor of the oral cavity and its adjacent sites, which endangers the physical and mental health of patients and has a complex etiology. Chronic infection is considered to be a risk factor in cancer development. Evidence suggests that periodontal pathogens, such as Porphyromonas gingivalis, Fusobacterium nucleatum, and Treponema denticola, are associated with oral squamous cell carcinoma (OSCC). They can stimulate tumorigenesis by promoting epithelial cells proliferation while inhibiting apoptosis and regulating the inflammatory microenvironment. Candida albicans promotes OSCC progression and metastasis through multiple mechanisms. Moreover, oral human papillomavirus (HPV) can induce oropharyngeal squamous cell carcinoma (OPSCC). There is evidence that HPV16 can integrate with host cells' DNA and activate oncogenes. Additionally, oral dysbiosis and synergistic effects in the oral microbial communities can promote cancer development. In this review, we will discuss the biological characteristics of oral microbiome associated with OSCC and OPSCC and then highlight the mechanisms by which oral microbiome is involved in oral oncogenesis, tumor progression, and metastasis. These findings may have positive implications for early diagnosis and treatment of oral cancer.
+
+================================================================================
+
+Title: e-Cigarettes and Oral Cancer: what do we know so far?
+Authors: Cameron Alice, Meng Yip Hao, Garg Montey
+Journal: The British journal of oral & maxillofacial surgery
+Publication Date: 2023/Jun/01
+PMID: 37164806
+DOI: 10.1016/j.bjoms.2023.03.013
+URL: https://pubmed.ncbi.nlm.nih.gov/37164806/
+Abstract:
+We aim to summarise the latest evidence to better inform OMFS practitioners about the deleterious effects of vaping on oral health and the risks of oral cancer, so they can better inform their patients. Current evidence suggests that e-cigarette use is not risk-free.
+
+================================================================================
+
+Title: Oral Squamous Cell Carcinoma and Concomitant Primary Tumors, What Do We Know? A Review of the Literature.
+Authors: Badwelan Mohammed, Muaddi Hasan, Ahmed Abeer, Lee Kyungjun T, Tran Simon D
+Journal: Current oncology (Toronto, Ont.)
+Publication Date: 2023/Mar/27
+PMID: 37185396
+DOI: 10.3390/curroncol30040283
+URL: https://pubmed.ncbi.nlm.nih.gov/37185396/
+Abstract:
+Head and neck cancer is among the top ten cancers worldwide, with most lesions in the oral cavity. Oral squamous cell carcinoma (OSCC) accounts for more than 90% of all oral malignancies and is a significant public health concern. Patients with OSCC are at increased risk for developing concomitant tumors, especially in the oral cavity, due to widely genetically susceptible mucosa to carcinogenic factors. Based on fulfilling specific criteria, these concomitant tumors can be called second primary tumors (SPTs), which can be further categorized into metachronous and synchronous tumors. This research reviews the literature that investigated the concurrent OSCC with second or multiple primaries to improve understanding of the definition, classification guidelines, and its effect on cancer survival. It also highlights the current investigation methods, the variation of standard treatment approaches due to such a phenomenon, and preventive measures discussed in the literature.
+
+================================================================================
+

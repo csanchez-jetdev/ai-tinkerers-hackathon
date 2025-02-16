@@ -186,9 +186,8 @@ if __name__ == "__main__":
 
     # Search for papers
     papers = agent.search_papers(
-        query="CRISPR gene editing cancer therapy",
-        max_results=5,
-        date_from="2023/01/01",
+        query="mouth neoplasms",
+        max_results=20,
         date_to="2024/12/31"
     )
 
