@@ -41,21 +41,8 @@ default_summary_templates = yaml.safe_load(
 default_summary_templates["system"] = summary_system_prompt
 
 
-# Agent 2: Conversation Summary Agent (on conserve l'usage du tool)
-@tool
-def summarize_medical_conversation(transcript: str) -> Dict:
-    """
-    Creates a structured summary of a doctor-patient conversation.
-    Args:
-        transcript: The medical conversation transcript
-    Returns:
-        Dictionary containing the conversation summary
-    """
-    # Implémenter la logique de résumé ici
-    pass
-
 summary_agent = ToolCallingAgent(
-    tools=[summarize_medical_conversation],
+    tools=[],
     model=model,
     prompt_templates=default_summary_templates,
 )
