@@ -32,6 +32,7 @@ class SpeechRecognitionService:
 
     def __init__(self, config: Optional[TranscriptionConfig] = None):
 
+
         self.api_key = os.getenv('HUGGING_FACE_API_KEY')
         if not self.api_key:
             raise ValueError("HUGGING_FACE_API_KEY environment variable is not set")
@@ -103,7 +104,8 @@ class SpeechRecognitionTool(Tool):
             "description": "The path to the audio file to be processed.",
         }
     }
-    output_type = Transcription
+    output_type = "object"  # Changed from Transcription class to string type
+    output_description = "A transcription object containing the extracted text, language, and duration"
 
     def __init__(self, config: Optional[TranscriptionConfig] = None, **kwargs):
         super().__init__(**kwargs)
@@ -122,7 +124,6 @@ class SpeechRecognitionTool(Tool):
         Returns:
             Transcription object containing the results
         """
-
         return await self.service.transcribe(file_path)
 
 async def main():
